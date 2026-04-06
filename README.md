@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ali El Bana
+# Hi I'm Ali El Bana
 
 🚀 Flutter Developer  
 📱 Building Mobile Apps  
